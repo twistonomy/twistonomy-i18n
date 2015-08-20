@@ -1,0 +1,47 @@
+en:
+  locale_name: English
+  by: By
+  click_twice: Click again to save picture
+  save_twist: Save Twist
+  options: Options
+  close: Close
+  locale: Language
+  layouts:
+    header:
+      toggle_nav: Toggle navigation
+      admin: Admin
+      admin_twists: Twists
+      admin_celebrities: Celebrities
+      admin_lastnames: Lastnames
+      latest: Latest
+      moderate: Moderate
+      logout: Logout
+      create_twist: Create a Twist
+      facebook_sign_in: Sign-In with Facebook
+      twitter_sign_in: Sign-In with Twitter
+      create_account: Create an account
+      login: Login
+      logged_in_as: You're logged in as 
+  home:
+    index:
+      title: Twistonomy
+      unlike: Unlike
+      like: Like
+  twists:
+    form:
+      placeholder_body: 1 - Type your context here
+      placeholder_celebrity: "2 - Lastname, Firstname"
+      spacer_desc_title: '<strong>Keep a space between <em>"Body"</em> and <em>"Lastname, Firstname"</em></strong>'
+      spacer_desc_content: "<small>Checked: This is a test&nbsp;Twist, Oliver</small><br /><small>Unchecked: This is a testTwist, Oliver</small>"
+    create:
+      notice_created: Your Twist has been saved!
+    display:
+      notice_success: "Congrats, it's a new Celebrity.<br />Select the best picture. Your choice!"
+      notice_picture: "The celebrity picture has been saved. Thank you!<br />Your twist will appear in moderation queue soon."
+    moderate:
+      title: Moderate yourself submited twists
+      invalid: Invalid
+      help: Help
+      valid: Correct!
+    new:
+      title: Create a Twist

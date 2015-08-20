@@ -1,0 +1,47 @@
+fr:
+  locale_name: Français
+  by: Par
+  click_twice: Cliquez une nouvelle fois pour sauvegarder
+  save_twist: Enregister
+  options: Options
+  close: Fermer
+  locale: Langue
+  layouts:
+    header:
+      toggle_nav: Ouvrir navigation
+      admin: Admin
+      admin_twists: Twists
+      admin_celebrities: Celebrities
+      admin_lastnames: Lastnames
+      latest: Nouveaux
+      moderate: Modérer
+      logout: Déconnecter
+      create_twist: Créer un Twist
+      facebook_sign_in: Se connecter avec Facebook
+      twitter_sign_in: Se connecter avec Twitter
+      create_account: Créer un compte
+      login: Login
+      logged_in_as: Vous êtes connecté en tant que 
+  home:
+    index:
+      title: Twistonomy
+      unlike: J'aime pas
+      like: J'aime
+  twists:
+    form:
+      placeholder_body: 1 - Tape ton contexte ici
+      placeholder_celebrity: "2 - Nom de famille, Prénom"
+      spacer_desc_title: '<strong>Garder un espace entre <em>"Contexte"</em> et <em>"Nom de Famille, Prénom"</em></strong>'
+      spacer_desc_content: "<small>Coché: Ceci est un exemple de&nbsp;Twist, Oliver</small><br /><small>Décoché: Ceci est un exemple deTwist, Oliver</small>"
+    create:
+      notice_created: Le Twist a bien été enregistré !
+    display:
+      notice_success: "Félicitations, c'est une nouvelle Célébrité !<br />Tu peux choisir sa photo!"
+      notice_picture: "La photo a été enregistrée, merci !<br />Ton Twist va bientôt apparaitre dans la file de modération."
+    moderate:
+      title: Modérez vous-mêmes les Twists soumis par les internautes
+      invalid: Invalide
+      help: Aide
+      valid: Correct !
+    new:
+      title: Créez un Twist
