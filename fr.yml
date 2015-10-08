@@ -6,6 +6,13 @@ fr:
   options: Options
   close: Fermer
   locale: Langue
+  thank_you: Merci !
+  must_logun: Vous devez d'abord vous connecter!
+  try_again: Hmm... Réessayez dans quelques minutes.
+  already_clicked: Vous avez déjà cliqué sur ce bouton.
+  notice_required_field: "%{field} est obligatoire"
+  notice_body_length: Le contexte doit faire entre 5 et 150 caractères 
+  notice_fullname_syntax: 'Le nom de la célébrité doit être de la forme "Nom de famille, Prénom"'
   layouts:
     header:
       toggle_nav: Ouvrir navigation

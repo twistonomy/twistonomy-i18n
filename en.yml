@@ -6,6 +6,13 @@ en:
   options: Options
   close: Close
   locale: Language
+  thank_you: Thank you!
+  must_login: You must login first.
+  try_again: Hmm... Please try again later.
+  already_clicked: You've already clicked this button!
+  notice_required_field: "%{field} is mandatory"
+  notice_body_length: The body must be between 5 and 150 characters.
+  notice_fullname_syntax: 'The full name must look "Lastname, Firstname"'
   layouts:
     header:
       toggle_nav: Toggle navigation
