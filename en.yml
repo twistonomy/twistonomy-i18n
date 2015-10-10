@@ -13,6 +13,8 @@ en:
   notice_required_field: "%{field} is mandatory"
   notice_body_length: The body must be between 5 and 150 characters.
   notice_fullname_syntax: 'The full name must look "Lastname, Firstname"'
+  unlike: Unlike
+  like: Like
   layouts:
     header:
       toggle_nav: Toggle navigation
@@ -21,6 +23,7 @@ en:
       admin_celebrities: Celebrities
       admin_lastnames: Lastnames
       latest: Latest
+      popular: Top 20
       moderate: Moderate
       logout: Logout
       create_twist: Create a Twist
@@ -29,11 +32,13 @@ en:
       create_account: Create an account
       login: Login
       logged_in_as: You're logged in as 
+    footer:
+      about: About
+      latest_celebrities: Recent Celebrities
+      social: Stay Tuned!
   home:
     index:
       title: Twistonomy
-      unlike: Unlike
-      like: Like
   twists:
     form:
       placeholder_body: 1 - Type your context here

@@ -13,6 +13,8 @@ fr:
   notice_required_field: "%{field} est obligatoire"
   notice_body_length: Le contexte doit faire entre 5 et 150 caractères 
   notice_fullname_syntax: 'Le nom de la célébrité doit être de la forme "Nom de famille, Prénom"'
+  unlike: J'aime pas
+  like: J'aime
   layouts:
     header:
       toggle_nav: Ouvrir navigation
@@ -20,6 +22,7 @@ fr:
       admin_twists: Twists
       admin_celebrities: Celebrities
       admin_lastnames: Lastnames
+      popular: Top 20
       latest: Nouveaux
       moderate: Modérer
       logout: Déconnecter
@@ -29,11 +32,13 @@ fr:
       create_account: Créer un compte
       login: Login
       logged_in_as: Vous êtes connecté en tant que 
+    footer:
+      about: A propos
+      latest_celebrities: Célébrités du moment
+      social: Restez branchés !
   home:
     index:
       title: Twistonomy
-      unlike: J'aime pas
-      like: J'aime
   twists:
     form:
       placeholder_body: 1 - Tape ton contexte ici
